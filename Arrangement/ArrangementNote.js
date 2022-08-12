@@ -1,5 +1,3 @@
-import MidiWriter from '../../node_modules/midi-writer-js/build/index.browser.js'
-
 export default class ArrangementNote {
     constructor(musicObject, duration = '4', time, velocity = 50) {
         this.musicObject = musicObject
