@@ -1,4 +1,4 @@
-import {Pitch, Chord, Scale, SCALES} from '../musicTheory.js'
+import {Pitch, Chord, Scale, SCALES} from '../index.js'
 
 let fMajorScale = new Scale(5, SCALES.MAJOR)
 

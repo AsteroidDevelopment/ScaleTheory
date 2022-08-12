@@ -1,4 +1,4 @@
-import {Note, Scale, SCALES} from '../musicTheory.js'
+import {Note, Scale, SCALES} from '../index.js'
 
 let passed = 0
 

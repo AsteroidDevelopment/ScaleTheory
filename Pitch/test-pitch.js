@@ -1,4 +1,4 @@
-import {Pitch} from '../musicTheory.js'
+import {Pitch} from '../index.js'
 
 
 let cPitch = new Pitch(0, 4)

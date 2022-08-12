@@ -1,6 +1,6 @@
 import Pitch from '../Pitch/Pitch.js'
 import Chord from '../Chord/Chord.js'
-import { Note } from '../musicTheory.js';
+import { Note } from '../index.js';
 
 export default class Scale {
   constructor(chromaticNoteIndex, notes) {
