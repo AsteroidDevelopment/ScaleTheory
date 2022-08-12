@@ -1,0 +1,11 @@
+
+v0.2
+Arrangements and ArrangementNotes introduced
+
+v0.1.1
+Rename "Notes" class to "Pitch" to make room for new "Notes"
+Introduce new "Notes" class- that ties to Scales the same way Chords does, this allows easier manipulation of melodies as well
+
+v0.1
+Basic MVP for Notes, Scales, and Chords
+
