@@ -6,8 +6,6 @@ import Chord from './Chord/Chord.js'
 import Arrangement from './Arrangement/Arrangement.js'
 import ArrangementNote from './Arrangement/ArrangementNote.js'
 
-import test from './test.js'
-
 export {CHROMATIC_NOTES, A4_FREQUENCY, SCALES, Pitch, Scale, Note, Chord, Arrangement, ArrangementNote}
 export default {CHROMATIC_NOTES, A4_FREQUENCY, SCALES, Pitch, Scale, Note, Chord, Arrangement, ArrangementNote}
 
